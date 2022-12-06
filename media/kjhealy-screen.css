@@ -23,25 +23,32 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
 body {
 	line-height: 1;
 }
+
 ol, ul {
 	list-style: none;
 }
-blockquote, q {
+
+blockquote,
+q {
 	quotes: none;
 }
+
 blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
 	content: none;
 }
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -49,14 +56,11 @@ table {
 
 /* end of reset */
 
-
-
 body {
 	font: normal normal 400;
 	font-size: 80%;
 	line-height: 1.5em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Verdana,sans-serif;
+	font-family: Verdana, sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
 }
@@ -72,9 +76,8 @@ p {
 code {
 	font: normal normal;
 	font-size: 80%;
-	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
-	color: #aaa;
+	font-family: Menlo, monospace, sans-serif;
+	color: #3c3c3c;
 }
 
 p code {
@@ -82,7 +85,7 @@ p code {
 	left: -17%;
 }
 
-ul { 
+ul {
 	position: relative;
 	left: 33%;
 	width: 65%;
@@ -102,9 +105,9 @@ li ul {
 	margin-top: 0.25em;
 }
 
-h1,h2,h3,h4 {
+h1, h2, h3, h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family: Cousine, Verdana, sans-serif;
 	width: 65%;
 }
 
@@ -116,14 +119,13 @@ h1 {
 	left: 33%;
 }
 
-h1 + p { 
-	/*subtitle*/
+h1+p {
 	font-style: italic;
 	font-size: 110%;
 }
 
 h2 {
-	font-size: 1.1em;
+	font-size: 0.9em;
 	color: #a00;
 	margin-top: 3em;
 	position: relative;
@@ -133,8 +135,8 @@ h2 {
 }
 
 h3 {
-	font-size: 1em;
-	line-height: 2em; 
+	font-size: 0.7em;
+	line-height: 2em;
 	position: relative;
 	top: 1.7em;
 	text-align: right;
@@ -146,7 +148,7 @@ a {
 }
 
 a:hover {
-	color:#39f
+	color: #39f
 }
 
 em {
@@ -159,14 +161,24 @@ strong {
 }
 
 @media only screen and (max-width: 1280px) {
-	h2, h3 {
+	h2,	h3 {
 		width: 100%;
 		text-align: center;
+	}
+
+	h2 {
 		top: -0.6em;
 	}
 
-	p code {
-		position: relative;
-		display: block;
+	h3 {
+		top: -0.2em;
+	}
+
+	p {
+		left: 25%;
+	}
+
+	P code {
+		left: -25%;
 	}
 }
