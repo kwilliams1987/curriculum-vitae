@@ -1,7 +1,8 @@
 ---
 layout: cv
-title: Kristian William's
+title: Kristian Williams
 ---
+
 # Kristian Williams
 Senior .NET Developer
 
@@ -53,31 +54,64 @@ __Combat Medical Technician (Level 3)__
 
 ## Competencies
 
-Skills||
----------------------------------|------------
-**Microsoft Stack**              |
-C# .NET v4.5-7.0                 | Expert
-.NET MVC (C#)                    | Expert
-SignalR (C# .NET/JS)             | Experienced
-MSSQL                            | Expert
-SQL Dependency                   | Experienced
-Azure Hosting / DevOps           | Experienced
-Xamarin (C#)                     | Experienced
-&nbsp;                           |
-**Common Web Development**       |
-Frontend (HTML5/CSS3/JavaScript) | Expert
-Database Design                  | Expert
-Search Engine Optimization       | Experienced
-Service Bus                      | Experienced
-&nbsp;                           |
-**Tools & Workflows**            |
-GIT                              | Expert
-SVN                              | Experienced
-Axosoft                          | Experienced
-Atlassian Bitbucket              | Expert
-Atlassian Bamboo                 | Expert
-Azure Pipelines                  | Expert
-Github Actions                   | Experienced
+## Microsoft Stack
+`Expert`
+__C# .NET v4.5-7.0__
+
+`Expert`
+__.NET MVC (C#)__
+
+`Experienced`
+__SignalR (C# .NET/JS)__
+
+`Expert`
+__Microsoft SQL Server__
+
+`Experienced`
+__SQL Dependency__
+
+`Experienced`
+__Azure Hosting / DevOps__
+
+`Experienced`
+__Xamarin (C#)__
+
+## Common Web Development
+
+`Expert`
+__Frontend (HTML5/CSS3/JavaScript)__
+
+`Expert`
+__Database Design__
+
+`Experienced`
+__Search Engine Optimization__
+
+`Experienced`
+__Service Bus__
+
+## Tools & Workflows
+
+`Expert`
+__GIT__
+
+`Experienced`
+__SVN__
+
+`Experienced`
+__Atlassian Axosoft__
+
+`Expert`
+__Atlassian Bitbucket__
+
+`Expert`
+__Atlassian Bamboo__
+
+`Expert`
+__Azure Pipelines__
+
+`Experienced`
+__Github Actions__
 
 <!-- ### Footer
 
