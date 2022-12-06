@@ -54,7 +54,7 @@ __Combat Medical Technician (Level 3)__
 
 ## Competencies
 
-## Microsoft Stack
+### Microsoft Stack
 `Expert`
 __C# .NET v4.5-7.0__
 
@@ -76,7 +76,7 @@ __Azure Hosting / DevOps__
 `Experienced`
 __Xamarin (C#)__
 
-## Common Web Development
+### Common Web Development
 
 `Expert`
 __Frontend (HTML5/CSS3/JavaScript)__
@@ -90,7 +90,7 @@ __Search Engine Optimization__
 `Experienced`
 __Service Bus__
 
-## Tools & Workflows
+### Tools & Workflows
 
 `Expert`
 __GIT__
