@@ -1,91 +1,86 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kristian William's
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kristian Williams
+Senior .NET Developer
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+- [Public Github](https://github.com/kwilliams1987)
+- [LinkedIn](https://www.linkedin.com/in/kristianandersonwilliams/)
 
 ## Currently
 
-Standing on the shoulders of giants
+Senior C# Software Developer at SoftTech Automatisering B.V.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+C#, .NET 4.5 - 7.0, ASP.NET, Web Services, Windows Services, Automation, Code Quality
 
 
-### Research interests
+### Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Software development, home automation, gaming
 
 
+## Employment Experience
 
-## Awards
+`July 2016 - now`
+__SoftTech Automatisering B.V.__: Senior C# Software Developer
 
-`2012`
-President, *Royal Society*, London, UK
+`July 2012 - June 2016`
+__SoftTech Automatisering B.V.__: Medior PHP/C# Software Developer
 
-Associate, *French Academy of Science*, Paris, France
+`July 2011 - June 2012`
+__Activo Internet Solutions__: PHP Developer, MySQL Database Engineer, Server Technician
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2007 - 2011`
+__British Army (Territorial)__: Infantry (Team Medic)
 
 
-## Occupation
+## Certifications & Achievements
 
-`1600`
-__Royal Mint__, London
+`2012 - now`
+__Bedrijfshulpverlening__
 
-- Warden
-- Minted coins
+`2010`
+__Operational Service Medal (Afghanistan)__
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2010`
+__NATO None-Article 5 Service Medal__
 
+`2009`
+__Combat Medical Technician (Level 3)__
 
+## Competencies
+
+Skills||
+---------------------------------|------------
+**Microsoft Stack**              |
+C# .NET v4.5-7.0                 | Expert
+.NET MVC (C#)                    | Expert
+SignalR (C# .NET/JS)             | Experienced
+MSSQL                            | Expert
+SQL Dependency                   | Experienced
+Azure Hosting / DevOps           | Experienced
+Xamarin (C#)                     | Experienced
+&nbsp;                           |
+**Common Web Development**       |
+Frontend (HTML5/CSS3/JavaScript) | Expert
+Database Design                  | Expert
+Search Engine Optimization       | Experienced
+Service Bus                      | Experienced
+&nbsp;                           |
+**Tools & Workflows**            |
+GIT                              | Expert
+SVN                              | Experienced
+Axosoft                          | Experienced
+Atlassian Bitbucket              | Expert
+Atlassian Bamboo                 | Expert
+Azure Pipelines                  | Expert
+Github Actions                   | Experienced
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2022 -->
 
 
